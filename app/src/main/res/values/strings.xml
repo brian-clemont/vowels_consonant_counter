@@ -4,4 +4,6 @@
     <string name="count_vowels_consonants"><![CDATA[Count Vowels & Consonants]]></string>
     <string name="final_Statement">"The count of vowels is "</string>
     <string name="consonant_res">"\n The number of consonants are "</string>
+    <string name="regualr_expression_for_consonant_check">.*[ -_,.\\[\\{\\]}\\?=()].*</string>
+    <string name="reg_exp_for_checking_vowel">.*[AEIOUaeiou].*</string>
 </resources>
