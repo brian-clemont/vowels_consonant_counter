@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vowels &amp; Consonant Counter</string>
+    <string name="enter_string">Enter String</string>
+    <string name="count_vowels_consonants"><![CDATA[Count Vowels & Consonants]]></string>
+    <string name="final_Statement">"The count of vowels is "</string>
+    <string name="consonant_res">"\n The number of consonants are "</string>
+</resources>
